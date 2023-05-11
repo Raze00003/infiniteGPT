@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 # Add your own OpenAI API key
 
-openai.api_key = "sk-XXXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "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"
 
 def load_text(file_path):
     with open(file_path, 'r') as file:
